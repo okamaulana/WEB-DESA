@@ -1,7 +1,11 @@
 # WEB-DESA
 DEVELOPER : OKA MAULANA
+
 CONTACT   : 082287956090
+
 OFFICIAL WEB DESA : DESA BLANG LUAH KABUPATEN ACEH BARAT,, KECAMATAN WOYLA TIMUR 
+
+LINK : https://desablangluah.wuaze.com/
 
 Website desa adalah sarana digital yang berfungsi sebagai pusat informasi dan layanan untuk masyarakat desa. Melalui website ini, masyarakat dapat dengan mudah mengakses berita terbaru, pengumuman resmi, profil desa, potensi desa, hingga layanan publik secara cepat dan transparan.
 
